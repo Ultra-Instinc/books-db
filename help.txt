@@ -1,0 +1,2 @@
+the local server is on 3005 port  >>>>   npm run server
+the dev server is on 3000 port    >>>>   npm run start  
